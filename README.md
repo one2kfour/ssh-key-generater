@@ -4,7 +4,7 @@
 
 # git --version
 
-# ssh-keygen -t ed25519 (ontime only for one compyter)
+# ssh-keygen -t ed25519 (one time only)
 
 # (Enter )Do not enter passphrase 
 
